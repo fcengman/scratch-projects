@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.16.1-Ubuntu <<>> uvic.ca
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60988
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;uvic.ca.			IN	A
+
+;; ANSWER SECTION:
+uvic.ca.		251	IN	A	142.104.197.120
+
+;; Query time: 15 msec
+;; SERVER: 192.168.100.1#53(192.168.100.1)
+;; WHEN: Sat Feb 05 20:01:59 PST 2022
+;; MSG SIZE  rcvd: 52
+
